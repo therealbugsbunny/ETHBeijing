@@ -319,3 +319,11 @@ Through TrustConnect, we aim to demonstrate the potential of CertiKlave as a rob
 * 目标：完成前端demo
 * 是否招募队员：否
 
+# 57 Parami in Scroll
+* 简介：
+* 目标：完成项目在Scroll上的部署，并且实现HNFT的前端bid开发
+* 内容：
+1. NFT碎片化 在我们产品上合作部署（外部）
+2. 为了完整性考虑，不做桥的方案，而选择在scoll上进行小额支付，此处需要优化“小额支付”的gas消耗
+3. 领取广告的前端展示页（产品demo），展示一个NFT在页面上，点击能跳转到NFT Slot上的hyperlink即可；同时需要展示bid hyperlink 到 nft slot的过程。
+是否招募队员：否
